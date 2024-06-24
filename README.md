@@ -18,7 +18,6 @@ I'm Nosipho Sithole, a passionate software developer who thrives on turning idea
 **Tools**: Interllij, Git, VS Code
 
 
-
 🌈 **Fun Facts**
 
 I recently added a custom sound effect feature to one of my projects, enhancing its interactivity and user experience.

@@ -1,12 +1,7 @@
-Hi there! 👋🏼
+**Hi there!** 👋🏼
 
 I'm Nosipho Sithole, a passionate software developer who thrives on turning ideas into reality through code and design.
 
-**Contents**
-
-- [Quick Overview](#quick-overview)
-- [Tech Stack](#tech-stack)
-- [Fun Facts](#fun-facts)
 
 **🚀 Quick Overview**
 

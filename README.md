@@ -13,9 +13,9 @@ I'm Nosipho Sithole, a passionate software developer who thrives on turning idea
 
 💻 **Tech Stack**
 
-**Languages**: Java, Python, HTML, CSS, JavaScript
-**Frameworks**: React.js
-**Tools**: Interllij, Git, VS Code
+Languages: Java, Python, HTML, CSS, JavaScript
+Frameworks: React.js
+Tools: Interllij, Git, VS Code
 
 
 🌈 **Fun Facts**

@@ -1,23 +1,40 @@
-**Hi there!** 👋🏼
+# 👋🏼 Hi there!
 
-I'm Nosipho Sithole, a passionate software developer who thrives on turning ideas into reality through code and design.
+I'm **Nosipho Sithole** — a **Software Engineering Graduate** and aspiring **Cybersecurity Analyst** passionate about building secure digital systems and solving real-world security challenges. I thrive at the intersection of software development and cybersecurity.
 
+---
 
-**🚀 Quick Overview**
+## 🚀 Quick Overview
 
-- 👋 Hi, I’m @Nosie12.
-- 👀 I’m interested in software development, technology, and open-source contributions.
-- 🌱 I’m currently enhancing my skills in advanced Java, Python, and web development frameworks.
-- 💼 I’m looking to collaborate on impactful open-source projects and innovative software solutions.
-- 📫 How to reach me: [nosiphosithole738@gmail.com]
-- 😄 Pronouns: [she/her]
+- 👋 Hi, I’m **@Nosie12**  
+- 🎓 Graduate in **Software Engeneering**, now specializing in **Cybersecurity**  
+- 👀 Passionate about cybersecurity, ethical hacking, and secure software development  
+- 🌱 Currently enhancing my skills in **threat analysis**, **network security**, and **incident response**  
+- 💼 Open to opportunities in **cybersecurity analysis**, **security operations**, and **secure development projects**  
+- 📫 Reach me at: [nosiphosithole738@gmail.com](mailto:nosiphosithole738@gmail.com)  
+- 😄 Pronouns: **she/her**
 
-**💻 Tech Stack**
+---
 
-- Languages: Java, Python, HTML, CSS, JavaScript
-- Frameworks: React.js
-- Tools: Interllij, Git, VS Code
+## 🛡️ Cybersecurity Focus
 
-**🌈 Fun Facts**
+- Threat detection and analysis  
+- Vulnerability assessment  
+- Security incident response  
+- Network and system hardening  
+- Ethical hacking & CTF challenges  
 
-- I recently added a custom sound effect feature to one of my projects, enhancing its interactivity and user experience.
+---
+
+## 💻 Tech Stack
+
+- **Languages:** Java, Python, HTML, CSS, JavaScript  
+- **Frameworks:** React.js  
+- **Tools:** IntelliJ, Git, VS Code  
+- **Cyber Tools (learning & using):** Wireshark, Nmap, Metasploit, Burp Suite  
+
+---
+
+## 🌈 Fun Facts
+
+- I enjoy participating in **CTFs** and lab simulations to strengthen real-world cybersecurity skills

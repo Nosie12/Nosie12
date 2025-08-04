@@ -50,7 +50,7 @@
 ## 📫 **Let's Connect**
 📧 **Email**: nosiphosithole738@gmail.com  
 💼 **LinkedIn**: *(https://www.linkedin.com/in/nosipho-sithole-874b38236)*  
-💻 **PortFolio**: *(----------------)*
+💻 **PortFolio**: *(https://nosiphosipho.netlify.app/)*
 
 ## ⚡ **Fun Fact**
 **Here's what I've realized**: Cybersecurity isn't just about stopping the bad guys (though that's important too!). It's really about **protecting real people and the systems they depend on every day**. Every secure app I help build could be safeguarding someone's personal photos, financial data, or important communications. That responsibility is both exciting and motivating - I'm genuinely pumped to help make the digital world a safer place, one line of secure code at a time! 🔒💻✨
